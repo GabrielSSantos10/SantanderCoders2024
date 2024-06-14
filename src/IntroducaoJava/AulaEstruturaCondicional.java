@@ -1,6 +1,4 @@
-package IntroduçãoJava;
-
-import javax.swing.plaf.synth.SynthOptionPaneUI;
+package IntroducaoJava;
 
 public class AulaEstruturaCondicional {
     public static void main(String[] args) {
